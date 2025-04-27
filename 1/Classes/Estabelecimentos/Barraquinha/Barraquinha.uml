@@ -1,0 +1,16 @@
+Barraquinha
+------------------------------------
+nome:str
+endereco:str
+telefone:str
+email:str
+longitude:float
+latitude:float
+cardapio:dicionario
+funcionamento:bool
+delivery:bool
+taxa_delivery:float
+------------------------------------
++adicionar_item_ao_cardapio()
++remover_item_ao_cardapio()
++alterar_preco_de_item_ao_cardapio()

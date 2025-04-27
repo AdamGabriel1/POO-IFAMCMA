@@ -1,0 +1,271 @@
+|================================|
+|       Todos os Celulares       |
+|1. S24 Ultra                    |
+|2. A14 5G                       |
+|3. Redmi 9A                     |
+|4. Red Magic 9 Pro Plus         |
+|0. Sair                         |
+|================================|
+Digite o número do Celular que você quer ver as especificações: 1
+Especificações do Celular: 
+
+1: DADOS GERAIS:
+Modelo: Samsung
+Nome: S24 Ultra
+Tipo: LiPo
+Sistema operacional: Android 14 Samsung One UI 6.1
+Disponibilidade: 2024/1
+Dimensões: 162.3 x 79 x 8.6 mm
+Peso: 232 gramas
+Resistencia a água: Sim
+
+2: DADOS TÉCNICOS:
+Processador: 1x 3.39 GHz Cortex-X4 + 3x 3.1 GHz Cortex-A720 + 2x 2.9 GHz Cortex-A720 + 2x 2.2 GHz Cortex-A520
+Chipset: Snapdragon 8 Gen 3 Qualcomm SM8650-AB
+Memória ram: 12 GB
+Gpu: Adreno 750
+Armazenamento: 1 TB
+Memória expansivel: Não
+
+3: BATERIA:
+Bateria: 5000 mAh
+
+4: TELA:
+Tela: 6.8
+Resolução: 1440 x 3120 pixel
+Densidade de pixels: 505 ppi
+Tipo da tela: Dynamic AMOLED 2X
+Fps: 120 Hz
+Proteção: Gorilla Glass Armor
+
+5: CÂMERA:
+Megapixels: 200 Mp + 50 Mp + 12 Mp + 10 Mp
+Resolução da câmera: 16330 x 12247 pixel
+Tamanho do sensor: 1/1.3 '' + 1/2.55 '' + 1/3.52 ''
+Aperture size: F 1.7 + F 3.4 + F 2.2 + F 2.4
+Estabilização: Ótica
+Ângulo máximo: 120 °
+Zoom ótico: 5 x
+Autofoco: Tem
+Foco por toque: Tem
+Flash: LED
+Hdr: Tem
+Dual shot: Tem
+Localização: Tem
+Detecção facial: Tem
+Câmera frontal: 12 Mp F 2.2
+
+6: VÍDEO:
+Resolução da gravação: 8K UHD
+Auto focagem de vídeo: Tem
+Fps da gravação: 30 fps
+Estabilização de vídeo: Tem
+Slow motion: 960 fps
+Vídeo hdr: Tem
+Dual rec: Tem
+Stereo sound rec: Tem
+Foto em vídeo: Tem
+Vídeo camera frontal: 4K (2160p), 60fps
+Opções da câmera frontal: HDR/Face Detection/Autofocus
+
+
+|================================|
+|       Todos os Celulares       |
+|1. S24 Ultra                    |
+|2. A14 5G                       |
+|3. Redmi 9A                     |
+|4. Red Magic 9 Pro Plus         |
+|0. Sair                         |
+|================================|
+Digite o número do Celular que você quer ver as especificações: 2
+Especificações do Celular: 
+
+1: DADOS GERAIS:
+Modelo: Samsung
+Nome: A14 5G
+Tipo: LiPo
+Sistema operacional: Android 13 Samsung One UI Core 5
+Disponibilidade: 2023/1
+Dimensões: 167.7 x 78 x 9.1 mm
+Peso: 202 gramas
+Resistencia a água: Sim
+
+2: DADOS TÉCNICOS:
+Processador: 2x 2.2 GHz Cortex-A76 + 6x 2.0 GHz Cortex-A55
+Chipset: Dimensity 700 MediaTek MT6833
+Memória ram: 4 GB
+Gpu: Mali-G57 MC2
+Armazenamento: 128 GB
+Memória expansivel: Sim, MicroSDXC atè 1024 GB
+
+3: BATERIA:
+Bateria: 5000 mAh
+
+4: TELA:
+Tela: 6.6
+Resolução: 1080 x 2400 pixel
+Densidade de pixels: 339 ppi
+Tipo da tela: PLS LCD
+Fps: 90 Hz
+Cores: 16 milhões
+
+5: CÂMERA:
+Megapixels: 50 Mp + 2 Mp + 2 Mp
+Resolução da câmera: 8165 x 6124 pixel
+Aperture size: F 1.8 + F 2.4 + F 2.4
+Estabilização: Digital
+Autofoco: Tem
+Foco por toque: Tem
+Flash: LED
+Hdr: Tem
+Dual shot: Tem
+Localização: Tem
+Detecção facial: Tem
+Câmera frontal: 13 Mp F 2
+
+6: VÍDEO:
+Resolução da gravação: Full HD
+Auto focagem de vídeo: Tem
+Fps da gravação: 30 fps
+Vídeo camera frontal: 4K (2160p), 60fps
+Opções da câmera frontal: HDR/Face Detection/Autofocus
+
+
+|================================|
+|       Todos os Celulares       |
+|1. S24 Ultra                    |
+|2. A14 5G                       |
+|3. Redmi 9A                     |
+|4. Red Magic 9 Pro Plus         |
+|0. Sair                         |
+|================================|
+Digite o número do Celular que você quer ver as especificações: 3
+Especificações do Celular: 
+
+1: DADOS GERAIS:
+Modelo: Xiaomi
+Nome: Redmi 9A
+Tipo: LiPo
+Sistema operacional: Android 10 MIUI 11
+Disponibilidade: 2020/2
+Dimensões: 164.9 x 77.07 x 9 mm
+Peso: 194 gramas
+Resistencia a água: Não
+
+2: DADOS TÉCNICOS:
+Processador: 4x 2.0 GHz Cortex-A53 + 4x 1.5 GHz Cortex-A53
+Chipset: Helio G25 MediaTek
+Memória ram: 2 GB
+Gpu: PowerVR GE8320
+Armazenamento: 32 GB
+Memória expansivel: Sim, MicroSDXC atè 512 GB
+
+3: BATERIA:
+Bateria: 5000 mAh
+
+4: TELA:
+Tela: 6.53
+Resolução: 720 x 1600 pixel
+Densidade de pixels: 269 ppi
+Tipo da tela: IPS LCD
+Fps: 60 Hz
+Cores: 16 milhões
+
+5: CÂMERA:
+Megapixels: 13 Mp
+Resolução da câmera: 4163 x 3122 pixel
+Aperture size: F 2.2
+Estabilização: Digital
+Autofoco: Tem
+Foco por toque: Tem
+Flash: LED
+Hdr: Tem
+Dual shot: Tem
+Localização: Tem
+Detecção facial: Tem
+Câmera frontal: 5 Mp F 2.2
+
+6: VÍDEO:
+Resolução da gravação: Full HD
+Auto focagem de vídeo: Tem
+Fps da gravação: 30 fps
+Vídeo camera frontal: Full HD, 30fps
+Opções da câmera frontal: HDR/Face Detection/Autofocus
+
+
+|================================|
+|       Todos os Celulares       |
+|1. S24 Ultra                    |
+|2. A14 5G                       |
+|3. Redmi 9A                     |
+|4. Red Magic 9 Pro Plus         |
+|0. Sair                         |
+|================================|
+Digite o número do Celular que você quer ver as especificações: 4
+Especificações do Celular: 
+
+1: DADOS GERAIS:
+Modelo: Nubia
+Nome: Red Magic 9 Pro Plus
+Tipo: LiPo
+Sistema operacional: Android 14 Redmagic OS 9
+Disponibilidade: 2023/3
+Dimensões: 163.98 x 76.35 x 8.9 mm
+Peso: 229 gramas
+Resistencia a água: Não
+
+2: DADOS TÉCNICOS:
+Processador: 1x 3.3 GHz Cortex-X4 + 3x 3.2 GHz Cortex-A720 + 2x 3.0 GHz Cortex-A720 + 2x 2.3 GHz Cortex-A520
+Chipset: Snapdragon 8 Gen 3 Qualcomm SM8650-AB
+Memória ram: 16 GB
+Gpu: Adreno 750
+Armazenamento: 512 GB
+Memória expansivel: Não
+
+3: BATERIA:
+Bateria: 6500 mAh
+
+4: TELA:
+Tela: 6.8
+Resolução: 1116 x 2480 pixel
+Densidade de pixels: 400 ppi
+Tipo da tela: AMOLED
+Fps: 120 Hz
+Cores: Mais de 16 milhões
+
+5: CÂMERA:
+Megapixels: 50 Mp + 50 Mp + 2 Mp
+Resolução da câmera: 8165 x 6124 pixel
+Tamanho do sensor: 1/1.57 '' + 1/2.76 ''
+Aperture size: F 2.4
+Estabilização: Ótica
+Autofoco: Tem
+Foco por toque: Tem
+Flash: LED
+Hdr: Tem
+Dual shot: Tem
+Localização: Tem
+Detecção facial: Tem
+Câmera frontal: 16 Mp F 2
+
+6: VÍDEO:
+Resolução da gravação: 8K UHD
+Auto focagem de vídeo: Tem
+Fps da gravação: 30 fps
+Estabilização de vídeo: Tem
+Slow motion: 240 fps
+Foto em vídeo: Tem
+Vídeo camera frontal: Full HD, 60fps
+Opções da câmera frontal: HDR
+
+
+|================================|
+|       Todos os Celulares       |
+|1. S24 Ultra                    |
+|2. A14 5G                       |
+|3. Redmi 9A                     |
+|4. Red Magic 9 Pro Plus         |
+|0. Sair                         |
+|================================|
+Digite o número do Celular que você quer ver as especificações: 0
+Fim do Programa.

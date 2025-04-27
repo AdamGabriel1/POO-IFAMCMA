@@ -1,0 +1,2 @@
+class Cource:
+    pass

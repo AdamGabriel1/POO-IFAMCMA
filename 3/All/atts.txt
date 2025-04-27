@@ -1,0 +1,70 @@
+1.  Classes: 655  l   main: 196 l   All: 851  l
+2.  Classes: 732  l   main: 138 l   All: 870  l
+3.  Classes: 742  l   main: 137 l   All: 879  l
+4.  Classes: 997  l   main: 143 l   All: 1140 l
+5.  Classes: 1119 l   main: 148 l   All: 1267 l
+6.  Classes: 1176 l   main: 148 l   All: 1324 l
+7.  Classes: 1533 l   main: 353 l   All: 1886 l
+8.  Classes: 1681 l   main: 363 l   All: 2044 l
+9.  Classes: 1395 l   main: 412 l   All: 1807 l # Adição de Classes Abstratas
+10. Classes: 1508 l   main: 513 l   All: 2021 l
+11. Classes: 1607 l   main: 556 l   All: 2163 l # Adição de Interfaces
+
+difs:
+
+1 p 2:
+Classes: +77 l
+main: -58 l
+l add: 19
+
+2 p 3:
+Classes: +10 l
+main: -1 l
+l add: 9 l
+
+3 p 4:
+Classes: +255 l
+main: +6 l
+l add: 261
+
+4 p 5:
+
+Classes: +122 l
+main: +5 l
+l add: 127
+
+5 p 6:
+
+Classes: +57 l
+main: 0 l
+l add: 57
+
+6 p 7:
+
+Classes: +357 l
+main: +205 l
+l add: 562
+
+7 p 8:
+
+Classes: +148 l
+main: +10 l
+l add: 158
+
+8 p 9:
+
+Classes -286 l
+main: +49 l
+l add: -237 l
+
+9 p 10:
+
+Classes: +113 l
+main: +100 l
+l add: 213 l
+
+10 p 11:
+
+Classes: +99 l
+main: +43 l
+l add: 142 l

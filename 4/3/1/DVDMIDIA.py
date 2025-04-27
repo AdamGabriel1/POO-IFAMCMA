@@ -1,0 +1,2 @@
+class DVDMIDIA:
+    pass

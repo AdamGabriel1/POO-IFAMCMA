@@ -1,0 +1,25 @@
+DADOS GERAIS
+self.dd_gr=f"Modelo: {self.modelo}\nNome do Dispositivo: {self.nm_disp}\nTipo: {self.tipo}\nSistema Operacional: {self.so}\nDisponibilidade: {self.disponibilidade}\nDimensões: {self.dimensoes}\nPeso: {self.peso}\nResistencia a Água: {self.r_a_agua}"
+
+DADOS TÉCNICOS
+self.dd_tec=f"Processador: {self.processador}\nChipset: {self.chipset}\nMemória RAM: {self.mem_ram}\nGPU: {self.gpu}\nArmazenamento: {self.armazenamento}\nMemória Expansivel: {self.memoria_expansivel}"
+
+BATERIA
+self.bateria_all=f"Tipo: {self.tipo}\nBateria: {self.bateria}"
+
+TELA
+self.tela_all=f"Resolução: {self.resolucao}\nTela: {self.tela}\nResolução: {self.resolucao}\nDensidade de Pixels: {self.den_de_pixels}\nTipo da Tela: {self.tipo}\nFPS: {self.fps}\nproteção: {self.protecao}"
+
+CÂMERA
+self.camera_all=f"Megapixels: {self.megapixel}\nResolução: {self.resolucao}\nTamanho do Sensor: {self.tamanho_do_sensor}\nAperture Size: {self.aperture_size}\nEstabilização: {self.estabilizacao}\nÂngulo Máximo: {self.angulo_maximo}\nZoom Otico: {self.zoom_otico}\nAutofoco: {self.autofoco}\nFoco por Toque: {self.foco_por_toque}\nFlash: {self.flash}\nHDR: {self.hdr}\nDual Shot: {self.dual_shot}\nLocalização: {self.localizacao}\nDetecção Facial: {self.deteccao_facial}\nCamera Frontal: {self.camera_frontal}"
+
+VÍDEO
+self.video_all=f"Resolução da Gravação: {self.resolucao_da_gravacao}\nAuto Focagem de Vídeo: {self.auto_focagem_de_video}\nFPS da gravação: {self.fps_da_gravacao}\nEstabilização de Vídeo: {self.estabilizacao_de_video}\nSlow Motion: {self.slow_motion}\nVídeo HDR: {self.video_hdr}\nDual Rec: {self.dual_rec}\nStereo Sound Rec: {self.stereo_sound_rec}\nFoto em Vídeo: {self.foto_em_video}\nVídeo Camera Frontal: {self.video_camera_frontal}\nOpções da Câmera Frontal: {self.opcoes_da_camera_frontal}"
+
+
+DADOS GERAIS
+DADOS TÉCNICOS
+BATERIA
+TELA
+CÂMERA
+VÍDEO
